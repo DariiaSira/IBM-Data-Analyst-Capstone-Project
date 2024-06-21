@@ -1,66 +1,21 @@
 ### TESTS
-1. 1)Requests
-2)1173
-3)Washington DC
 
-2.
-1)Swift
-2)soup.find_all(“img”)
-
-3.
-1)11552
-2)85
-3)Numerical
-
-4.
-1)154
-2)154
-
-5.
-1)11398
-2)11398
-
-6.
-1)112
-2)0
-
-7.
-1)Employed full-time
-2)Health Science
-3)median
-
-8.
-1)3
-2)6073
-3)100000
-
-9.
-1)29
-2)57708
-3)24-32
-
-10.
-1)57745
-2)52704
-3)0
-4)59883
-
-11.
-1)CodeRevHrs
-2)ConvertedComp
-
-12.
-1)Difficult to clearly identify from the scatter plot
-
-13.
-1)20.9
-2)3
-3)7106
-4)474
-
-14.
-1)Developer - full-stack
-2)Positive
+| No. |  Answer 1                    | Answer 2             | Answer 3       |Answer 4 |
+|-----|------------------------------|----------------------|----------------|---------|
+| 1   | Requests                     | 1173                 | Washington DC  |         |
+| 2   | Swift                        | soup.find_all(“img”) |                |         |
+| 3   | 11552                        | 85                   | Numerical      |         |
+| 4   | 154                          | 154                  |                |         |
+| 5   | 11398                        | 11398                |                |         |
+| 6   | 112                          | 0                    |                |         |
+| 7   | Employed full-time           | Health Science       | median         |         |
+| 8   | 3                            | 6073                 | 100000         |         |
+| 9   | 29                           | 57708                | 24-32          |         |
+| 10  | 57745                        | 52704                | 0              | 59883   |
+| 11  | CodeRevHrs                   | ConvertedComp        |                |         |
+| 12  | Difficult to clearly identify from the scatter plot |                |         |
+| 13  | 20.9                         | 3                    | 7106           | 474     |
+| 14  | Developer - full-stack       | Positive             |                |         |
 
 
 ### Peer-graded Assignment: Peer-graded Assignment
